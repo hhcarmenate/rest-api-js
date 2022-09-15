@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Rest Api with Vanilla js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhcarmenate/rest-api-js.git"
+  },
+  "author": "HH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhcarmenate/rest-api-js/issues"
+  },
+  "homepage": "https://github.com/hhcarmenate/rest-api-js#readme"
+}
